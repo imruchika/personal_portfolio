@@ -1,0 +1,49 @@
+header img{
+    height: 200px;
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.head-img{
+    background-color: rgb(227, 222, 219);
+}
+header{
+    
+    padding: 10px;
+}
+.name{
+    text-align: center;
+}
+.square{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(182, 179, 176);
+    border: 1px solid rgb(155, 145, 145);
+    margin:20px;
+    display: inline-block;
+    line-height: 180px;
+    text-align: center;
+}
+body{
+    background-color: rgb(226, 224, 222);
+}
+section{
+    background-color: rgb(188, 187, 187);
+    text-align: left;
+    
+}
+#sec1{
+padding: 10px;
+margin-bottom: 20px;
+}
+#sec2{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(208, 211, 214);
+    padding: 10px;
+    margin: 5px;
+}
